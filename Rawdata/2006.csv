@@ -1,0 +1,768 @@
+Trade Flow,Reporter,Partner,Trade Value (US$)
+1,China,Australia,19323299466
+2,China,Australia,13624882168
+1,China,Brazil,12909495161
+2,China,Brazil,7380105731
+1,China,Canada,7662114176
+2,China,Canada,15516844612
+1,China,China,73332834178
+1,China,France,11288721815
+2,China,France,13978873746
+1,China,Germany,37879365204
+2,China,Germany,40314598128
+1,China,Indonesia,9605743215
+2,China,Indonesia,9449711801
+1,China,Italy,8600427622
+2,China,Italy,15977188051
+1,China,Japan,1.16E+11
+2,China,Japan,91622673330
+1,China,Rep. of Korea,89724142142
+2,China,Rep. of Korea,44522206859
+1,China,Mexico,2607102793
+2,China,Mexico,8823554228
+1,China,Netherlands,3650066874
+2,China,Netherlands,30861137796
+1,China,Russian Federation,17554327123
+2,China,Russian Federation,15832487030
+1,China,Saudi Arabia,15084532094
+2,China,Saudi Arabia,5055833989
+1,China,India,10277448538
+2,China,India,14581297367
+1,China,Spain,3003141507
+2,China,Spain,11545364553
+1,China,United Arab Emirates,2796745203
+2,China,United Arab Emirates,11404780331
+1,China,Turkey,765951559
+2,China,Turkey,7303284863
+1,China,United Kingdom,6506395471
+2,China,United Kingdom,24163209027
+1,China,USA,59314269712
+2,China,USA,2.04E+11
+1,Germany,Australia,2062064000
+2,Germany,Australia,6900683000
+1,Germany,Brazil,8913089000
+2,Germany,Brazil,7419980000
+1,Germany,Canada,5025723000
+2,Germany,Canada,8102181000
+1,Germany,China,62805681000
+2,Germany,China,34596026000
+1,Germany,France,78032709000
+2,Germany,France,1.07E+11
+1,Germany,Indonesia,3527820000
+2,Germany,Indonesia,1915573000
+1,Germany,Italy,52122536000
+2,Germany,Italy,74568764000
+1,Germany,Japan,30161029000
+2,Germany,Japan,17424016000
+1,Germany,Rep. of Korea,14415743000
+2,Germany,Rep. of Korea,10659179000
+1,Germany,Mexico,3787160000
+2,Germany,Mexico,8041438000
+1,Germany,Netherlands,76303973000
+2,Germany,Netherlands,71001811000
+1,Germany,Russian Federation,37674339000
+2,Germany,Russian Federation,29457553000
+1,Germany,Saudi Arabia,2040563000
+2,Germany,Saudi Arabia,5846064000
+1,Germany,India,5294761000
+2,Germany,India,8004414000
+1,Germany,Spain,24902610000
+2,Germany,Spain,52472241000
+1,Germany,United Arab Emirates,585161000
+2,Germany,United Arab Emirates,6804934000
+1,Germany,Turkey,11591993000
+2,Germany,Turkey,18076790000
+1,Germany,United Kingdom,51301357000
+2,Germany,United Kingdom,81235846000
+1,Germany,USA,61792385000
+2,Germany,USA,98010962000
+1,Japan,Australia,27927415055
+2,Japan,Australia,12489136251
+1,Japan,Brazil,5084301374
+2,Japan,Brazil,3044768595
+1,Japan,Canada,9616385133
+2,Japan,Canada,9956230383
+1,Japan,China,1.19E+11
+2,Japan,China,92769551020
+1,Japan,France,8984656883
+2,Japan,France,7666528623
+1,Japan,Germany,18455301635
+2,Japan,Germany,20417587687
+1,Japan,Indonesia,24135022583
+2,Japan,Indonesia,7372338295
+1,Japan,Italy,7031763957
+2,Japan,Italy,6427606766
+1,Japan,Rep. of Korea,27328400354
+2,Japan,Rep. of Korea,50270020226
+1,Japan,Mexico,2824693152
+2,Japan,Mexico,9276275583
+1,Japan,Netherlands,2175913889
+2,Japan,Netherlands,14729834789
+1,Japan,Russian Federation,6659124284
+2,Japan,Russian Federation,7059427810
+1,Japan,Saudi Arabia,37191495895
+2,Japan,Saudi Arabia,4642475208
+1,Japan,India,4054993466
+2,Japan,India,4452962959
+1,Japan,Spain,1942922234
+2,Japan,Spain,5735506127
+1,Japan,United Arab Emirates,31575378865
+2,Japan,United Arab Emirates,6047107900
+1,Japan,Turkey,359287863
+2,Japan,Turkey,2380743749
+1,Japan,United Kingdom,6712186325
+2,Japan,United Kingdom,15211178182
+1,Japan,USA,69384707246
+2,Japan,USA,1.47E+11
+1,United Arab Emirates,Australia,1431783429
+2,United Arab Emirates,Australia,103866908
+1,United Arab Emirates,Brazil,1060084389
+2,United Arab Emirates,Brazil,10038105
+1,United Arab Emirates,Canada,535937746
+2,United Arab Emirates,Canada,31893435
+1,United Arab Emirates,China,8502838236
+2,United Arab Emirates,China,374370984
+1,United Arab Emirates,France,2408645079
+2,United Arab Emirates,France,644756649
+1,United Arab Emirates,Germany,5945871560
+2,United Arab Emirates,Germany,242850270
+1,United Arab Emirates,Indonesia,850760801
+2,United Arab Emirates,Indonesia,145015501
+1,United Arab Emirates,Italy,3360694548
+2,United Arab Emirates,Italy,92040279
+1,United Arab Emirates,Japan,5833493825
+2,United Arab Emirates,Japan,36380073366
+1,United Arab Emirates,Rep. of Korea,2072066605
+2,United Arab Emirates,Rep. of Korea,71560731
+1,United Arab Emirates,Mexico,103787244
+2,United Arab Emirates,Mexico,4081159
+1,United Arab Emirates,Netherlands,984499699
+2,United Arab Emirates,Netherlands,201696528
+1,United Arab Emirates,Russian Federation,413519422
+2,United Arab Emirates,Russian Federation,452347640
+1,United Arab Emirates,Saudi Arabia,3240197045
+2,United Arab Emirates,Saudi Arabia,1342904184
+1,United Arab Emirates,India,8476485617
+2,United Arab Emirates,India,4734650543
+1,United Arab Emirates,Spain,885861867
+2,United Arab Emirates,Spain,53230932
+1,United Arab Emirates,Turkey,1892237414
+2,United Arab Emirates,Turkey,181933798
+1,United Arab Emirates,United Kingdom,4031017275
+2,United Arab Emirates,United Kingdom,497607319
+1,United Arab Emirates,USA,6376011808
+2,United Arab Emirates,USA,719582730
+1,USA,Australia,8541085343
+2,USA,Australia,17781610037
+1,USA,Brazil,28031247072
+2,USA,Brazil,19227471941
+1,USA,Canada,3.08E+11
+2,USA,Canada,2.30E+11
+1,USA,China,3.06E+11
+2,USA,China,55224097110
+1,USA,France,38082574458
+2,USA,France,24385839261
+1,USA,Germany,91215229465
+2,USA,Germany,41313146994
+1,USA,Indonesia,14342140331
+2,USA,Indonesia,3078128990
+1,USA,Italy,34100163151
+2,USA,Italy,12566238137
+1,USA,Japan,1.52E+11
+2,USA,Japan,59647551304
+1,USA,Rep. of Korea,47636132257
+2,USA,Rep. of Korea,32455280553
+1,USA,Mexico,2.01E+11
+2,USA,Mexico,1.34E+11
+1,USA,Netherlands,18068285312
+2,USA,Netherlands,31101731019
+1,USA,Russian Federation,20730747653
+2,USA,Russian Federation,4717016078
+1,USA,Saudi Arabia,33086758506
+2,USA,Saudi Arabia,7808243110
+1,USA,India,22992712582
+2,USA,India,10091103613
+1,USA,Spain,10401726727
+2,USA,Spain,7404802323
+1,USA,United Arab Emirates,1447037067
+2,USA,United Arab Emirates,11920407683
+1,USA,Turkey,5774354218
+2,USA,Turkey,5729587355
+1,USA,United Kingdom,54612972216
+2,USA,United Kingdom,45391798523
+1,Brazil,Australia,737848838
+2,Brazil,Australia,512235188
+1,Brazil,Brazil,77979466
+1,Brazil,Canada,1194016342
+2,Brazil,Canada,2280740741
+1,Brazil,China,7989343057
+2,Brazil,China,8402368827
+1,Brazil,France,2844485118
+2,Brazil,France,2747920258
+1,Brazil,Germany,6503178428
+2,Brazil,Germany,5690809659
+1,Brazil,Indonesia,650193825
+2,Brazil,Indonesia,481805950
+1,Brazil,Italy,2572212188
+2,Brazil,Italy,3836472204
+1,Brazil,Japan,3839523496
+2,Brazil,Japan,3894521360
+1,Brazil,Rep. of Korea,3106305670
+2,Brazil,Rep. of Korea,1962513782
+1,Brazil,Mexico,1309925570
+2,Brazil,Mexico,4458202270
+1,Brazil,Netherlands,785544208
+2,Brazil,Netherlands,5748569555
+1,Brazil,Russian Federation,942554493
+2,Brazil,Russian Federation,3443427733
+1,Brazil,Saudi Arabia,1616964921
+2,Brazil,Saudi Arabia,1486313093
+1,Brazil,India,1473954799
+2,Brazil,India,938889310
+1,Brazil,Spain,1431098294
+2,Brazil,Spain,2330367717
+1,Brazil,United Arab Emirates,347034599
+2,Brazil,United Arab Emirates,1046056480
+1,Brazil,Turkey,145592662
+2,Brazil,Turkey,590292143
+1,Brazil,United Kingdom,1417221506
+2,Brazil,United Kingdom,2829591733
+1,Brazil,USA,14856489424
+2,Brazil,USA,24774417482
+1,Canada,Australia,1403927036
+2,Canada,Australia,1623423895
+1,Canada,Brazil,3005803256
+2,Canada,Brazil,1170980237
+1,Canada,Canada,2959741016
+1,Canada,China,30443272235
+2,Canada,China,6879497813
+1,Canada,France,4554662918
+2,Canada,France,2540996402
+1,Canada,Germany,9849533143
+2,Canada,Germany,3487001647
+1,Canada,Indonesia,835267959
+2,Canada,Indonesia,703030097
+1,Canada,Italy,4347023274
+2,Canada,Italy,1660448420
+1,Canada,Japan,13521423756
+2,Canada,Japan,8306150528
+1,Canada,Rep. of Korea,5085106275
+2,Canada,Rep. of Korea,2897433501
+1,Canada,Mexico,14131523790
+2,Canada,Mexico,3858046470
+1,Canada,Netherlands,1401009358
+2,Canada,Netherlands,2701045144
+1,Canada,Russian Federation,1579018207
+2,Canada,Russian Federation,772153517
+1,Canada,Saudi Arabia,1516741895
+2,Canada,Saudi Arabia,479321964
+1,Canada,India,1693253986
+2,Canada,India,1476710532
+1,Canada,Spain,1237917579
+2,Canada,Spain,1049272618
+1,Canada,United Arab Emirates,87540282
+2,Canada,United Arab Emirates,694222662
+1,Canada,Turkey,551372729
+2,Canada,Turkey,483356852
+1,Canada,United Kingdom,9595038479
+2,Canada,United Kingdom,8937980092
+1,Canada,USA,1.92E+11
+2,Canada,USA,3.17E+11
+1,France,Australia,1491443864
+2,France,Australia,2747016511
+1,France,Brazil,3667181356
+2,France,Brazil,3202712659
+1,France,Canada,2642508724
+2,France,Canada,3468087884
+1,France,China,30102974651
+2,France,China,10148907300
+1,France,France,5344874433
+1,France,Germany,86144464066
+2,France,Germany,69417315279
+1,France,Indonesia,1647937850
+2,France,Indonesia,565299931
+1,France,Italy,44828366713
+2,France,Italy,43529542065
+1,France,Japan,12909258520
+2,France,Japan,7152506092
+1,France,Rep. of Korea,5222405791
+2,France,Rep. of Korea,3624171905
+1,France,Mexico,966604803
+2,France,Mexico,2105632901
+1,France,Netherlands,21641200344
+2,France,Netherlands,19734277167
+1,France,Russian Federation,12588663183
+2,France,Russian Federation,5922984141
+1,France,Saudi Arabia,5106712085
+2,France,Saudi Arabia,2293380377
+1,France,India,3126523649
+2,France,India,3180406513
+1,France,Spain,36359195973
+2,France,Spain,47196778427
+1,France,United Arab Emirates,1368878545
+2,France,United Arab Emirates,4295622176
+1,France,Turkey,5292457824
+2,France,Turkey,6533477586
+1,France,United Kingdom,32478401996
+2,France,United Kingdom,40715472794
+1,France,USA,31805570263
+2,France,USA,33165277329
+1,Italy,Australia,1569769126
+2,Italy,Australia,3176864451
+1,Italy,Brazil,4314488782
+2,Italy,Brazil,2776739730
+1,Italy,Canada,1686279065
+2,Italy,Canada,3371508745
+1,Italy,China,22465431491
+2,Italy,China,7070766604
+1,Italy,France,40855461690
+2,Italy,France,48841489338
+1,Italy,Germany,72854378454
+2,Italy,Germany,54863954031
+1,Italy,Indonesia,1780844877
+2,Italy,Indonesia,728587708
+1,Italy,Japan,6830411857
+2,Italy,Japan,5594896647
+1,Italy,Rep. of Korea,4654835213
+2,Italy,Rep. of Korea,2750463880
+1,Italy,Mexico,364147793
+2,Italy,Mexico,3166703901
+1,Italy,Netherlands,22749450981
+2,Italy,Netherlands,9968510112
+1,Italy,Russian Federation,9996723517
+2,Italy,Russian Federation,9554181590
+1,Italy,Saudi Arabia,5319410311
+2,Italy,Saudi Arabia,3040986341
+1,Italy,India,3729378422
+2,Italy,India,2681474615
+1,Italy,Spain,18783931632
+2,Italy,Spain,30443503978
+1,Italy,United Arab Emirates,333720949
+2,Italy,United Arab Emirates,4139323156
+1,Italy,Turkey,6790811670
+2,Italy,Turkey,8327875598
+1,Italy,United Kingdom,15795660556
+2,Italy,United Kingdom,25212708264
+1,Italy,USA,13311469535
+2,Italy,USA,30751495581
+1,United Kingdom,Australia,6540913224
+2,United Kingdom,Australia,5187213778
+1,United Kingdom,Brazil,4165948770
+2,United Kingdom,Brazil,1691649944
+1,United Kingdom,Canada,11225278153
+2,United Kingdom,Canada,7159481309
+1,United Kingdom,China,41828379800
+2,United Kingdom,China,6034543969
+1,United Kingdom,France,44720571831
+2,United Kingdom,France,54587602749
+1,United Kingdom,Germany,78267411734
+2,United Kingdom,Germany,51279136740
+1,United Kingdom,Indonesia,2258064314
+2,United Kingdom,Indonesia,584611762
+1,United Kingdom,Italy,24146820888
+2,United Kingdom,Italy,18096997717
+1,United Kingdom,Japan,20932710711
+2,United Kingdom,Japan,7515739327
+1,United Kingdom,Rep. of Korea,6685508689
+2,United Kingdom,Rep. of Korea,3128115000
+1,United Kingdom,Mexico,2022639122
+2,United Kingdom,Mexico,1365817494
+1,United Kingdom,Netherlands,39629049581
+2,United Kingdom,Netherlands,31092025341
+1,United Kingdom,Russian Federation,11493625883
+2,United Kingdom,Russian Federation,3802560977
+1,United Kingdom,Saudi Arabia,1878499979
+2,United Kingdom,Saudi Arabia,3080003305
+1,United Kingdom,India,6362079745
+2,United Kingdom,India,5013551559
+1,United Kingdom,Spain,20484909725
+2,United Kingdom,Spain,24190053810
+1,United Kingdom,United Arab Emirates,1492861592
+2,United Kingdom,United Arab Emirates,6849739798
+1,United Kingdom,Turkey,7880066359
+2,United Kingdom,Turkey,4572659139
+1,United Kingdom,United Kingdom,6949058694
+1,United Kingdom,USA,53490012163
+2,United Kingdom,USA,59470792050
+1,Australia,Australia,554730520
+1,Australia,Brazil,705009292
+2,Australia,Brazil,672161263
+1,Australia,Canada,1791961821
+2,Australia,Canada,1265176860
+1,Australia,China,20327744305
+2,Australia,China,15356473026
+1,Australia,France,3212763879
+2,Australia,France,956239300
+1,Australia,Germany,7071564210
+2,Australia,Germany,1037151576
+1,Australia,Indonesia,3605202580
+2,Australia,Indonesia,3323259225
+1,Australia,Italy,3564906606
+2,Australia,Italy,1371693614
+1,Australia,Japan,13711753987
+2,Australia,Japan,24446819837
+1,Australia,Rep. of Korea,5451303500
+2,Australia,Rep. of Korea,9310297479
+1,Australia,Mexico,840600578
+2,Australia,Mexico,637841488
+1,Australia,Netherlands,1119353804
+2,Australia,Netherlands,2130185982
+1,Australia,Russian Federation,54612162
+2,Australia,Russian Federation,489836927
+1,Australia,Saudi Arabia,994266072
+2,Australia,Saudi Arabia,1656662824
+1,Australia,India,1023493892
+2,Australia,India,6644789456
+1,Australia,Spain,1092748362
+2,Australia,Spain,866209225
+1,Australia,United Arab Emirates,1043241744
+2,Australia,United Arab Emirates,1469901466
+1,Australia,Turkey,328169432
+2,Australia,Turkey,318655944
+1,Australia,United Kingdom,4895222822
+2,Australia,United Kingdom,6114960461
+1,Australia,USA,19664100039
+2,Australia,USA,7583156630
+1,Rep. of Korea,Australia,11309112389
+2,Rep. of Korea,Australia,4692086246
+1,Rep. of Korea,Brazil,2706904327
+2,Rep. of Korea,Brazil,3063431715
+1,Rep. of Korea,Canada,3091214457
+2,Rep. of Korea,Canada,3620405344
+1,Rep. of Korea,China,48556596186
+2,Rep. of Korea,China,69459176983
+1,Rep. of Korea,France,3244607509
+2,Rep. of Korea,France,3506584671
+1,Rep. of Korea,Germany,11362539212
+2,Rep. of Korea,Germany,10056165551
+1,Rep. of Korea,Indonesia,8848554219
+2,Rep. of Korea,Indonesia,4872312278
+1,Rep. of Korea,Italy,2915464019
+2,Rep. of Korea,Italy,4286258927
+1,Rep. of Korea,Japan,51926274535
+2,Rep. of Korea,Japan,26533921545
+1,Rep. of Korea,Mexico,797651292
+2,Rep. of Korea,Mexico,6284571287
+1,Rep. of Korea,Netherlands,3025599461
+2,Rep. of Korea,Netherlands,3609376927
+1,Rep. of Korea,Russian Federation,4572967271
+2,Rep. of Korea,Russian Federation,5179247907
+1,Rep. of Korea,Saudi Arabia,20552109786
+2,Rep. of Korea,Saudi Arabia,2978298268
+1,Rep. of Korea,India,3640789184
+2,Rep. of Korea,India,5532796943
+1,Rep. of Korea,Spain,778073676
+2,Rep. of Korea,Spain,3479242223
+1,Rep. of Korea,United Arab Emirates,12930857029
+2,Rep. of Korea,United Arab Emirates,2895994254
+1,Rep. of Korea,Turkey,194333394
+2,Rep. of Korea,Turkey,3035803289
+1,Rep. of Korea,United Kingdom,2976429270
+2,Rep. of Korea,United Kingdom,5634713434
+1,Rep. of Korea,USA,33796543284
+2,Rep. of Korea,USA,43320311038
+1,Mexico,Australia,896544481
+2,Mexico,Australia,438752241
+1,Mexico,Brazil,5557833434
+2,Mexico,Brazil,1147290461
+1,Mexico,Canada,7376227250
+2,Mexico,Canada,5176223571
+1,Mexico,China,24438280002
+2,Mexico,China,1688112156
+1,Mexico,France,2667349920
+2,Mexico,France,556530268
+1,Mexico,Germany,9437038164
+2,Mexico,Germany,2971347020
+1,Mexico,Indonesia,812486804
+2,Mexico,Indonesia,46327930
+1,Mexico,Italy,4108548223
+2,Mexico,Italy,266641562
+1,Mexico,Japan,15295163624
+2,Mexico,Japan,1594041917
+1,Mexico,Rep. of Korea,10621409183
+2,Mexico,Rep. of Korea,457494779
+1,Mexico,Netherlands,1546774515
+2,Mexico,Netherlands,1325542384
+1,Mexico,Russian Federation,535086143
+2,Mexico,Russian Federation,44189760
+1,Mexico,Saudi Arabia,303623541
+2,Mexico,Saudi Arabia,234603793
+1,Mexico,India,1126093769
+2,Mexico,India,680301241
+1,Mexico,Spain,3638151325
+2,Mexico,Spain,3270119128
+1,Mexico,United Arab Emirates,27493299
+2,Mexico,United Arab Emirates,63142517
+1,Mexico,Turkey,361222610
+2,Mexico,Turkey,36292116
+1,Mexico,United Kingdom,2140343321
+2,Mexico,United Kingdom,924937105
+1,Mexico,USA,1.31E+11
+2,Mexico,USA,2.12E+11
+1,Russian Federation,Australia,495261654
+2,Russian Federation,Australia,29131684
+1,Russian Federation,Brazil,2986578639
+2,Russian Federation,Brazil,725851582
+1,Russian Federation,Canada,902373010
+2,Russian Federation,Canada,362344836
+1,Russian Federation,China,12911747272
+2,Russian Federation,China,15757053282
+1,Russian Federation,France,5866449306
+2,Russian Federation,France,7623848664
+1,Russian Federation,Germany,18456673216
+2,Russian Federation,Germany,24499816126
+1,Russian Federation,Indonesia,420416300
+2,Russian Federation,Indonesia,186907253
+1,Russian Federation,Italy,5726240438
+2,Russian Federation,Italy,25102839313
+1,Russian Federation,Japan,7788760111
+2,Russian Federation,Japan,4624672469
+1,Russian Federation,Rep. of Korea,6780459304
+2,Russian Federation,Rep. of Korea,2606727430
+1,Russian Federation,Mexico,184979205
+2,Russian Federation,Mexico,248209802
+1,Russian Federation,Netherlands,2682356985
+2,Russian Federation,Netherlands,35895848486
+1,Russian Federation,Saudi Arabia,6382945
+2,Russian Federation,Saudi Arabia,272678482
+1,Russian Federation,India,967493853
+2,Russian Federation,India,2925514390
+1,Russian Federation,Spain,1951518081
+2,Russian Federation,Spain,3344844354
+1,Russian Federation,United Arab Emirates,187498901
+2,Russian Federation,United Arab Emirates,460625757
+1,Russian Federation,Turkey,2722646475
+2,Russian Federation,Turkey,14320660056
+1,Russian Federation,United Kingdom,3674397869
+2,Russian Federation,United Kingdom,10391216585
+1,Russian Federation,USA,6425595550
+2,Russian Federation,USA,8851517425
+1,Spain,Australia,1077063162
+2,Spain,Australia,941686611
+1,Spain,Brazil,2718711799
+2,Spain,Brazil,1410671447
+1,Spain,Canada,957371511
+2,Spain,Canada,981897118
+1,Spain,China,18050438359
+2,Spain,China,2162981376
+1,Spain,France,42106007338
+2,Spain,France,40058213838
+1,Spain,Germany,46830381994
+2,Spain,Germany,23350434513
+1,Spain,Indonesia,2140253013
+2,Spain,Indonesia,199861260
+1,Spain,Italy,27296469558
+2,Spain,Italy,18265606619
+1,Spain,Japan,7433388691
+2,Spain,Japan,1589719707
+1,Spain,Rep. of Korea,4872196388
+2,Spain,Rep. of Korea,643168067
+1,Spain,Mexico,3416556829
+2,Spain,Mexico,3791377657
+1,Spain,Netherlands,13200448445
+2,Spain,Netherlands,7079676260
+1,Spain,Russian Federation,9325293469
+2,Spain,Russian Federation,1900987908
+1,Spain,Saudi Arabia,3845216916
+2,Spain,Saudi Arabia,863157723
+1,Spain,India,2334861280
+2,Spain,India,686103259
+1,Spain,United Arab Emirates,107054521
+2,Spain,United Arab Emirates,1034437952
+1,Spain,Turkey,4476245200
+2,Spain,Turkey,3498277232
+1,Spain,United Kingdom,16688419325
+2,Spain,United Kingdom,17054731923
+1,Spain,USA,10789955103
+2,Spain,USA,9453809655
+1,Netherlands,Australia,698470475
+2,Netherlands,Australia,1370766658
+1,Netherlands,Brazil,3734089304
+2,Netherlands,Brazil,1111681385
+1,Netherlands,Canada,1781020251
+2,Netherlands,Canada,1521819119
+1,Netherlands,China,28903825739
+2,Netherlands,China,4098818174
+1,Netherlands,France,17922368593
+2,Netherlands,France,33023335434
+1,Netherlands,Germany,69729451707
+2,Netherlands,Germany,99146668266
+1,Netherlands,Indonesia,2074568179
+2,Netherlands,Indonesia,562019380
+1,Netherlands,Italy,8945726173
+2,Netherlands,Italy,20109915433
+1,Netherlands,Japan,8138937655
+2,Netherlands,Japan,2771985780
+1,Netherlands,Rep. of Korea,3291872285
+2,Netherlands,Rep. of Korea,3132102275
+1,Netherlands,Mexico,786000550
+2,Netherlands,Mexico,1567252200
+1,Netherlands,Russian Federation,13780567760
+2,Netherlands,Russian Federation,6651259519
+1,Netherlands,Saudi Arabia,5513599484
+2,Netherlands,Saudi Arabia,1867482660
+1,Netherlands,India,2084376101
+2,Netherlands,India,1379151482
+1,Netherlands,Spain,6759199198
+2,Netherlands,Spain,14285443001
+1,Netherlands,United Arab Emirates,729536221
+2,Netherlands,United Arab Emirates,2366810595
+1,Netherlands,Turkey,2190886331
+2,Netherlands,Turkey,4159083623
+1,Netherlands,United Kingdom,22783610033
+2,Netherlands,United Kingdom,35714631420
+1,Netherlands,USA,29846023119
+2,Netherlands,USA,20289209197
+1,Saudi Arabia,Australia,2049086438
+2,Saudi Arabia,Australia,208287019
+1,Saudi Arabia,Brazil,1447214727
+2,Saudi Arabia,Brazil,29554373
+1,Saudi Arabia,Canada,640874693
+2,Saudi Arabia,Canada,12463566
+1,Saudi Arabia,China,5847152698
+2,Saudi Arabia,China,1409547928
+1,Saudi Arabia,France,2553424527
+2,Saudi Arabia,France,256151960
+1,Saudi Arabia,Germany,5559007912
+2,Saudi Arabia,Germany,104766474
+1,Saudi Arabia,Indonesia,603163568
+2,Saudi Arabia,Indonesia,99826549
+1,Saudi Arabia,Italy,2729997491
+2,Saudi Arabia,Italy,400961470
+1,Saudi Arabia,Japan,5594034921
+2,Saudi Arabia,Japan,294787517
+1,Saudi Arabia,Rep. of Korea,2601409895
+2,Saudi Arabia,Rep. of Korea,524385108
+1,Saudi Arabia,Mexico,415569764
+2,Saudi Arabia,Mexico,6832852
+1,Saudi Arabia,Netherlands,989466277
+2,Saudi Arabia,Netherlands,680470198
+1,Saudi Arabia,Russian Federation,705357276
+2,Saudi Arabia,Russian Federation,4934585
+1,Saudi Arabia,India,2539571641
+2,Saudi Arabia,India,825184381
+1,Saudi Arabia,Spain,722461167
+2,Saudi Arabia,Spain,365680789
+1,Saudi Arabia,United Arab Emirates,1861950845
+2,Saudi Arabia,United Arab Emirates,3260108640
+1,Saudi Arabia,Turkey,786396887
+2,Saudi Arabia,Turkey,354830576
+1,Saudi Arabia,United Kingdom,2577730029
+2,Saudi Arabia,United Kingdom,438593288
+1,Saudi Arabia,USA,9933233704
+2,Saudi Arabia,USA,568287160
+1,India,Australia,6502159017
+2,India,Australia,886630922
+1,India,Brazil,954397115
+2,India,Brazil,1498120976
+1,India,Canada,1245980879
+2,India,Canada,1124705174
+1,India,China,15639063508
+2,India,China,7829167581
+1,India,France,4388425433
+2,India,France,2158615629
+1,India,Germany,7187473879
+2,India,Germany,3851692856
+1,India,Indonesia,3610442609
+2,India,Indonesia,1869806023
+1,India,Italy,2433238083
+2,India,Italy,3386163996
+1,India,Japan,4743468573
+2,India,Japan,2804219727
+1,India,Rep. of Korea,4891838354
+2,India,Rep. of Korea,2321995142
+1,India,Mexico,529524802
+2,India,Mexico,522106431
+1,India,Netherlands,1077148053
+2,India,Netherlands,2470297423
+1,India,Russian Federation,1900856895
+2,India,Russian Federation,845710910
+1,India,Saudi Arabia,10783078630
+2,India,Saudi Arabia,2329926861
+1,India,Spain,601458185
+2,India,Spain,1889146992
+1,India,United Arab Emirates,7507380301
+2,India,United Arab Emirates,11451552065
+1,India,Turkey,191409035
+2,India,Turkey,1158087931
+1,India,United Kingdom,4030814904
+2,India,United Kingdom,5383828828
+1,India,USA,11321477544
+2,India,USA,18705452048
+1,Turkey,Australia,365886697
+2,Turkey,Australia,289007980
+1,Turkey,Brazil,934782476
+2,Turkey,Brazil,121881519
+1,Turkey,Canada,674692616
+2,Turkey,Canada,378542135
+1,Turkey,China,9669110140
+2,Turkey,China,693037514
+1,Turkey,France,7239952633
+2,Turkey,France,4604349258
+1,Turkey,Germany,14768220038
+2,Turkey,Germany,9686234819
+1,Turkey,Indonesia,1031302884
+2,Turkey,Indonesia,84948899
+1,Turkey,Italy,8663468837
+2,Turkey,Italy,6752346420
+1,Turkey,Japan,3216725403
+2,Turkey,Japan,263084344
+1,Turkey,Rep. of Korea,3556269130
+2,Turkey,Rep. of Korea,155965841
+1,Turkey,Mexico,261944232
+2,Turkey,Mexico,140778329
+1,Turkey,Netherlands,2160109821
+2,Turkey,Netherlands,2539245676
+1,Turkey,Russian Federation,17806238758
+2,Turkey,Russian Federation,3237611322
+1,Turkey,Saudi Arabia,2252139210
+2,Turkey,Saudi Arabia,983226757
+1,Turkey,India,1579404944
+2,Turkey,India,222242425
+1,Turkey,Spain,3832593141
+2,Turkey,Spain,3721542494
+1,Turkey,United Arab Emirates,352284058
+2,Turkey,United Arab Emirates,1985696256
+1,Turkey,United Kingdom,5137552739
+2,Turkey,United Kingdom,6814300847
+1,Turkey,USA,6260881919
+2,Turkey,USA,5061329781
+1,Indonesia,Australia,2986264895
+2,Indonesia,Australia,2771276781
+1,Indonesia,Brazil,515146536
+2,Indonesia,Brazil,626135557
+1,Indonesia,Canada,666510900
+2,Indonesia,Canada,551006135
+1,Indonesia,China,6636895111
+2,Indonesia,China,8343571337
+1,Indonesia,France,954946523
+2,Indonesia,France,744183120
+1,Indonesia,Germany,1456575092
+2,Indonesia,Germany,2025698161
+1,Indonesia,Indonesia,408560804
+1,Indonesia,Italy,551379746
+2,Indonesia,Italy,1212978776
+1,Indonesia,Japan,5515773381
+2,Indonesia,Japan,21732122929
+1,Indonesia,Rep. of Korea,2875852523
+2,Indonesia,Rep. of Korea,7693540864
+1,Indonesia,Mexico,59889350
+2,Indonesia,Mexico,318052469
+1,Indonesia,Netherlands,515436244
+2,Indonesia,Netherlands,2518358053
+1,Indonesia,Russian Federation,415966048
+2,Indonesia,Russian Federation,273194535
+1,Indonesia,Saudi Arabia,3384386365
+2,Indonesia,Saudi Arabia,672077380
+1,Indonesia,India,1407423842
+2,Indonesia,India,3390790230
+1,Indonesia,Spain,206575835
+2,Indonesia,Spain,1641122136
+1,Indonesia,United Arab Emirates,345071375
+2,Indonesia,United Arab Emirates,1068324729
+1,Indonesia,Turkey,78849880
+2,Indonesia,Turkey,724132465
+1,Indonesia,United Kingdom,553038681
+2,Indonesia,United Kingdom,1432383827
+1,Indonesia,USA,4066342629
+2,Indonesia,USA,11259135631
